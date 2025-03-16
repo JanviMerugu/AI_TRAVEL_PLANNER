@@ -22,4 +22,9 @@ AI Travel Planner is a smart travel assistant that helps users plan trips by sug
 - Compare travel modes (Flight, Train, Bus, Cab) with prices (USD & INR), duration & direct booking links.
 - Recommendations for **top hotels & restaurants/cafes** at the destination.
 - **Live weather forecast** for the destination.
+
+---
+
+## **Live-Demo**:  https://ai-travel-planner07.streamlit.app/
+     
   
