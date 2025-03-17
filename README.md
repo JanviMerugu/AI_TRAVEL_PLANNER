@@ -26,5 +26,12 @@ AI Travel Planner is a smart travel assistant that helps users plan trips by sug
 ---
 
 ## **Live-Demo**:  https://ai-travel-planner07.streamlit.app/
-     
-  
+
+---
+
+## 🚀 Future Enhancements  
+
+- **🔐 User Authentication & Profiles** – Enable user accounts to save preferences, past trips, and favorite destinations.  
+- **💾 Trip Saving & Sharing** – Allow users to save planned trips and share itineraries with friends and family.  
+- **💰 Budget-Based Planning** – Integrate a cost estimator to suggest trips based on the user's budget.  
+- **🤖 AI-Powered Chat Assistant** – Implement a chatbot for instant travel suggestions and real-time support.  
